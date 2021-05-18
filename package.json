@@ -1,0 +1,16 @@
+{
+  "name": "mapdata",
+  "version": "1.0.0",
+  "description": "获取地图json数据",
+  "keywirds": "echarts map json 省市 区县 地图",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tiansc",
+  "license": "ISC"
+}
